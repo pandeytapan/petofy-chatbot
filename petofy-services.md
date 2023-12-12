@@ -43,7 +43,7 @@ Petofy presents a list of top pet shops in Dehradun. Find all the necessary pet 
 - Anokhee Pet Food & Accessories Shop
 - etc.
 
-## 7. Petsitter:
+## 7. Pet sitter:
 *In beta version.*
 
 ## 8. Pet-Friendly Places:
@@ -69,5 +69,5 @@ Petofy connects pet lovers to Animal Welfare Organizations in Dehradun. If you n
 - Petofy had a profile for each Doctor's,Groomers,Shop owners, ngos etc.
 - Petofy allow Pet parents to see their pet's vaccinations, nutrition, and other crucial updates.
 - Petofy use a cloud-based veterinary management software known as Online Pet Health Record (OPHR), which is built with custom features, modules and, functionalities that are designed to automate manual tasks, enhance visibility, and streamline veterinary workflows.
-- OPHR is used to provide services to Pet Doctors so they can 
-- 
+- OPHR is used to provide services to Pet Doctors so vets can have all pet's online health report records.
+- Pet can conect to vets via videocall through petofy app.
