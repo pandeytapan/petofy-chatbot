@@ -64,7 +64,9 @@ Petofy connects pet lovers to Animal Welfare Organizations in Dehradun. If you n
 
 ## 10. Pet Insurance:
 *In beta version.*
-
+## 11. Pet Digital Registry:- 
+Microchip your pet and give them an unique identity and get multiple benefits.
+                     
 # Notes:
 - Petofy had a profile for each Doctor's,Groomers,Shop owners, ngos etc.
 - Petofy allow Pet parents to see their pet's vaccinations, nutrition, and other crucial updates.
