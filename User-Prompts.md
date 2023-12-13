@@ -1,6 +1,6 @@
 # prompts related to Consulatant service:-
 - How to choose the best vet for my pet dog?
-- is online consultant will be goog for my pet?
+- is online consultant will be good for my pet?
 - what is the fee for consultant?
 - Can I find veterinarians with specific specialties on Petofy?
 - Can you provide advice on preventive care for my pet?
