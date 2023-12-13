@@ -59,7 +59,7 @@
 - Are there tips or guidelines for keeping pets safe and comfortable during outings?
 - What are the opening hours of the pet-friendly places listed on Petofy?
 
-# prompts related to Pet NGos:-
+# prompts related to Pet NGOs:-
 - tell me all Pet NGOs in my city?
 - how can i contribute to NGOs?
 - Pet Ngos near by me
