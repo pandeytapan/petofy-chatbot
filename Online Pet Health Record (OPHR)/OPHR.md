@@ -27,7 +27,6 @@
 **Response:** Veterinarians using OPHR benefit from comprehensive customer support, including assistance with software usage, issue resolution, and any queries related to the platform.
 
 **Prompt:** What is the cost structure for using OPHR?
-**Response:** The cost structure for using OPHR may vary based on specific plans or features. Veterinarians can inquire about the pricing details from Petofy to understand the cost structure.
-
+**Response:** The cost structure for using OPHR may vary based on specific plans or features.There is a free plan with some services and a Silver plan and a Gold plan.
 **Prompt:** Can veterinarians customize OPHR?
 **Response:** Yes, veterinarians can customize OPHR based on their specific needs. The software is built with custom features, modules, and functionalities to accommodate the unique requirements of veterinary practices.
