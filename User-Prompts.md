@@ -24,7 +24,7 @@
 - What facilities are provided at the pet hostels listed on Petofy?
 - Can you describe the type of accommodations available for pets?
 - How does the hostel ensure the well-being and happiness of pets during their stay?
-- Can I meet my pet in the hostel?
+- Can I visit my pet in the hostel?
 - What services are included in the daily care routine for pets?
 - Is grooming also done in the pet hostel?
 - How does the hostel ensure the health and safety of the pets in their care?
