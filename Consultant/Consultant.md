@@ -15,9 +15,6 @@
 **Prompt:** Is online consultation a good option for my pet?
 **Response:** Online consultation can be beneficial for routine check-ups and minor concerns. Ensure the chosen platform is reputable, but keep in mind that emergencies may require in-person visits.
 
-**Prompt:** What is the consultation fee?
-**Response:** Consultation fees vary. It's recommended to inquire about specific costs for different services when booking your appointment.
-
 **Prompt:** Can I find veterinarians with specific specialties on Petofy?
 **Response:** Yes, Petofy allows you to search for veterinarians with specific specialties, ensuring your pet receives specialized care.
 
@@ -29,3 +26,23 @@
 
 **Prompt:** What should I do if my pet ingests something toxic?
 **Response:** Contact your vet immediately if your pet ingests something toxic. Provide details on the substance and follow their guidance for prompt and appropriate care.
+
+# Prompts and Responses Related to Vet on Call Service
+
+**Prompt:** What is the refund policy for the vet on call service?
+**Response:** We have a refund policy in place for cases where due to unforeseen events there is a no-show from a vet or if pet parents cancel appointments, etc.
+
+**Prompt:** What are the operating hours/timing for the vet on call service?
+**Response:** Our vet on call service operates during specific hours from 7 am to 9 am.
+
+**Prompt:** What happens if I face internet connectivity issues during the call?
+**Response:** We recommend trying to reconnect or switching to a more stable network. You can also reach out to our customer care.
+
+**Prompt:** What if I have poor network coverage during the call?
+**Response:** We suggest finding a location with better network reception or moving to an area with a stronger signal.
+
+**Prompt:** Can I follow up with additional calls after the initial consultation?
+**Response:** Yes, our vet on call service is designed to provide continuous support and guidance to pet owners.
+
+**Prompt:** Can I get a prescription through the vet on call service?
+**Response:** Our veterinarians can provide prescriptions when deemed necessary during the consultation.
