@@ -1,5 +1,5 @@
 # Prompts and Responses Related to Consultant
-> Keep it like a Python distionary
+> Keep it like a Python dictionary
 ```bash
 {
  "Prompt": "Some question here"
