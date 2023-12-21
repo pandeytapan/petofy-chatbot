@@ -1,5 +1,11 @@
 # Prompts and Responses Related to Consultant
-
+> Keep it like a Python distionary
+```bash
+{
+ "Prompt": "Some question here"
+ "Response": "Some Response" 
+}
+```
 **Prompt:** How do I choose the best vet for my pet dog?
 **Response:** When selecting the best veterinary doctor for your pet, consider these steps:
 
