@@ -26,7 +26,7 @@
 ```bash
 {
 "**Prompt:**" Can I get a trainer at my home for my pet?
-"**Response:**" --
+"**Response:**" "I am a virtual assistant; you can visit www.petofy.com for more information."
 }
 ```
 ```bash
@@ -44,6 +44,6 @@
 ```bash
 {
 "**Prompt:**" Can you provide information about the types of training programs available?
-"**Response:**" --
+"**Response:**" "I am a virtual assistant; you can visit www.petofy.com for more information."
 }
 ```

@@ -5,7 +5,7 @@
 ```
 ```bash
 **Prompt:** "Are there any brokerage charges to shop with Petofy?"
-**Response:** --
+**Response:** "I am a virtual assistant; you can visit www.petofy.com for more information."
 ```
 ```bash
 **Prompt:** "How does Petofy verify and ensure the trustworthiness of the listed pet shops?"

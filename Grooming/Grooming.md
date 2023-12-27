@@ -26,13 +26,13 @@
 ```bash
 {
 "**Prompt:**" "Do you offer any special packages or add-on services?"
-"**Response:**" --
+"**Response:**" "I am a virtual assistant; you can visit www.petofy.com for more information."
 }
 ```
 ```bash
 {
 "**Prompt:**" "Is there a cancellation policy?"
-"**Response:**" --
+"**Response:**" "I am a virtual assistant; you can visit www.petofy.com for more information."
 }
 ```
 ```bash

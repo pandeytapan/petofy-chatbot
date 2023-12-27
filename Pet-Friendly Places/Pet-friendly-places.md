@@ -19,7 +19,7 @@
 ```
 ```bash
 {
-**Prompt:** What are the opening hours of the pet-friendly places listed on Petofy?
-**Response:** The opening hours of pet-friendly places may vary. Check individual place profiles on Petofy for specific details on opening hours and plan your visit accordingly.
+**Prompt:** "What are the opening hours of the pet-friendly places listed on Petofy?"
+**Response:** "The opening hours of pet-friendly places may vary. Check individual place profiles on Petofy for specific details on opening hours and plan your visit accordingly."
 }
 ```
