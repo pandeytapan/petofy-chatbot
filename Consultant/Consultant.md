@@ -1,11 +1,4 @@
 # Prompts and Responses Related to Consultant
-> Keep it like a Python dictionary
-```bash
-{
- "Prompt": "Some question here"
- "Response": "Some Response"
-}
-```
 ```bash
   [
   
