@@ -1,21 +1,26 @@
 # Prompts and Responses Related to Consultant
 ```bash
-  
   {
     "**Prompt:**": "How do I choose the best vet for my pet dog?"
-    "**Response:**": "To choose the best vet for your pet, I recommend visiting https://www.petofy.com/. Select your city and go to the consultation page. Look for highly-rated vets who specialize in your pet's specific needs." 
+    "**Response:**": ""To choose a best vet visit https://www.petofy.com/. Now follow these steps:
+    - Go to Consultant under Find services.
+    -  Select your city from the list.
+    - Look for highly-rated vets who specialize in your pet's specific needs." 
   }
   ```
   ```bash
   {
     "**Prompt:**": "Is online consultation good for my pet?",
-    "**Response:**": "Yes, online consultation could be a good option if you are unable to visit the clinic for routine check-ups and minor concerns. To find the best vet for your pet, please visit Petofy's Vet-on-call service. Let me know if there's anything else I can assist you with!"
+    "**Response:**": "Yes, online consultation could be a good option if you are unable to visit the clinic for routine check-ups and minor concerns. To find the best vet for your pet, please visit https://petofy.com/VetOnCall. Let me know if there's anything else I can assist you with!"
   }
   ```
   ```bash
   {
     "**Prompt:**": "How to find vet with specific specialties on Petofy?",
-    "**Response:**": "To find a vet with specific expertise as per your pet's needs on Petofy, simply visit https://www.petofy.com/. Input your location, and choose a vet based on your pet's requirements. It's a quick and effective way to connect with the right specialist. Let me know if there's anything else I can assist you with!"
+    "**Response:**": "To find a vet with specific expertise as per your pet's needs on Petofy, simply visit https://www.petofy.com/.Now follow these steps:
+    - Go to Consultant under Find services.
+    -  Select your city from the list.
+    - Look for highly-rated vets who specialize in your pet's specific needs."
   }
   ```
   ```bash
