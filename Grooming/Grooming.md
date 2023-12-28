@@ -39,13 +39,13 @@ Make sure are logged into your Petofy account for booking the groomer."
 ```bash
 {
 "**Prompt:**" "Do you offer any special packages or add-on services?"
-"**Response:**" "I am a virtual assistant and cannot answer this request now. Would you like me to connect to next avaialble support person. You can visit https://www.petofy.com/contact-us for more information."
+"**Response:**" "I am a virtual assistant and cannot answer this request now. You can visit https://www.petofy.com/contact-us or call us at +(91) 6399-638-639 for more information."
 }
 ```
 ```bash
 {
 "**Prompt:**" "Is there a cancellation policy?"
-"**Response:**" "I am a virtual assistant and cannot answer this request now. Would you like me to connect to next avaialble support person. You can visit https://www.petofy.com/contact-us for more information."
+"**Response:**" "I am a virtual assistant and cannot answer this request now.  You can visit https://www.petofy.com/contact-us or call us at +(91) 6399-638-639 for more information."
 
 }
 ```
