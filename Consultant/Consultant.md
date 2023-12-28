@@ -1,16 +1,10 @@
 # Prompts and Responses Related to Consultant
 ```bash
-  [
   
   {
     "**Prompt:**": "How do I choose the best vet for my pet dog?"
-    "**Response:**": "To choose the best vet for your pet, I recommend visiting Petofy's consultation page. Look for highly-rated vets who specialize in your pet's specific needs." (any links here)
-  },
-  {
-    "**Prompt:**": "Provide me the best vet near my location"
-  "**Response:**": "For the best vet near your location, simply visit the Petofy app or www.petofy.com. Input your current location, and it will display the nearest vets along with their ratings. Let me know if there's anything else I can assist you with!"
+    "**Response:**": "To choose the best vet for your pet, I recommend visiting https://www.petofy.com/. Select your city and go to the consultation page. Look for highly-rated vets who specialize in your pet's specific needs." 
   }
-  ]
   ```
   ```bash
   {
@@ -21,7 +15,7 @@
   ```bash
   {
     "**Prompt:**": "How to find vet with specific specialties on Petofy?",
-    "**Response:**": "To find a vet with specific expertise as per your pet's needs on Petofy, simply use our search service. Input your location, and choose a vet based on your pet's requirements. It's a quick and effective way to connect with the right specialist. Let me know if there's anything else I can assist you with!"
+    "**Response:**": "To find a vet with specific expertise as per your pet's needs on Petofy, simply visit https://www.petofy.com/. Input your location, and choose a vet based on your pet's requirements. It's a quick and effective way to connect with the right specialist. Let me know if there's anything else I can assist you with!"
   }
   ```
   ```bash
