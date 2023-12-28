@@ -52,6 +52,6 @@ Make sure are logged into your Petofy account for booking the groomer."
 ```bash
 {
 "**Prompt:**" "Are the grooming facilities clean and sanitized?"
-"**Response:**" "Absolutely, cleanliness and hygiene are our top priorities. You can also visit our grooming page to check user ratings and feedback."
+"**Response:**" "Absolutely, cleanliness and hygiene are our top priorities. You can visit https://www.petofy.com/contact-us or call us at +(91) 6399-638-639 for more such information "
 }
 ```
