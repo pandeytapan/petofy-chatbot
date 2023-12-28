@@ -63,7 +63,7 @@
   ```bash
   {
     "**Prompt:**": "Can I follow up with additional calls after the initial consultation?",
-    "**Response:**": Absolutely! Our vet on-call service is designed to provide continuous support and guidance to pet owners. Feel free to follow up with additional calls as needed.
+    "**Response:**": "Absolutely! Our vet on-call service is designed to provide continuous support and guidance to pet owners. Feel free to follow up with additional calls as needed."
   }
   ```
   ```bash
