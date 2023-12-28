@@ -4,7 +4,7 @@
   
   {
     "**Prompt:**": "How do I choose the best vet for my pet dog?"
-    "**Response:**": "To choose the best vet for your pet, I recommend visiting Petofy's consultation page. Look for highly-rated vets who specialize in your pet's specific needs."
+    "**Response:**": "To choose the best vet for your pet, I recommend visiting Petofy's consultation page. Look for highly-rated vets who specialize in your pet's specific needs." (any links here)
   },
   {
     "**Prompt:**": "Provide me the best vet near my location"
