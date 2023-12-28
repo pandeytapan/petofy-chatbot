@@ -17,7 +17,7 @@
   ```bash
   {
     "**Prompt:**": "How to find vet with specific specialties on Petofy?",
-    "**Response:**": "To find a vet with specific expertise as per your pet's needs on Petofy, simply visit https://www.petofy.com/.Now follow these steps:
+    "**Response:**": "To find a vet with specific expertise as per your pet's needs on Petofy, simply visit https://www.petofy.com/. Now follow these steps:
     - Go to Consultant under Find services.
     -  Select your city from the list.
     - Look for highly-rated vets who specialize in your pet's specific needs."
@@ -26,25 +26,25 @@
   ```bash
   {
     "**Prompt:**": "Can you advice me on preventive care for my pet?",
-    "**Response:**": "Absolutely! Preventive care for your pet includes regular vaccinations, maintaining a balanced diet, ensuring they get enough exercise, and scheduling routine check-ups. For a personalized preventive care plan, I recommend consulting with a vet through Petofy's consultation service"
+    "**Response:**": "Absolutely! Preventive care for your pet includes regular vaccinations, maintaining a balanced diet, ensuring they get enough exercise, and scheduling routine check-ups. For a personalized preventive care plan, I recommend consulting with a vet through https://petofy.com/VetOnCall."
   }
   ```
   ```bash
   {
     "**Prompt:**": "What type of diet is best for my pet's breed and age?",
-    "**Response:**": "The ideal diet depends on your pet's breed, age, and overall health. I recommend consulting with a vet through Petofy's vet on-call service. They can provide expert advice to ensure your pet gets the nutrition it requires."
+    "**Response:**": "The ideal diet depends on your pet's breed, age, and overall health. I recommend consulting with a vet through https://petofy.com/VetOnCall. They can provide expert advice to ensure your pet gets the nutrition it requires."
   }
   ```
   ```bash
   {
     "**Prompt**": "My pet is unconscious, and it looks like it ate something strange. What should I do?",
-    "**Response**": "Contact your vet immediately if your pet ingests something toxic. Provide details on the substance and follow their guidance for prompt and appropriate care."
+    "**Response**": "Contact your vet immediately. You can also use our vet on call service at https://petofy.com/VetOnCall. Provide details on the substance, and follow their guidance for prompt and appropriate care."
   }
   ```
   ```bash
   {
     "**Prompt:**": "What is the refund policy for the vet on call service?",
-    "**Response:**": "We aim to ensure a fair and transparent process for any refund requests. If you have specific concerns or inquiries, please reach out to our customer support at https://www.petofy.com/contact-us for more detailed assistance"
+    "**Response:**": "We aim to ensure a fair and transparent process for any refund requests. If you have specific concerns or inquiries, please reach out to our customer support at https://www.petofy.com/contact-us or call us at +(91) 6399-638-639 for more detailed assistance"
   }
   ```
   ```bash
@@ -56,7 +56,7 @@
   ```bash
   {
     "**Prompt:**": "What happens if I face internet connectivity issues during the call?",
-    "**Response:**": "If you face internet issues during the call, try reconnecting or switch to a more stable network. For further assistance, contact our customer care."
+    "**Response:**": "If you face internet issues during the call, try reconnecting or switch to a more stable network. For further assistance, please connect our customer support at https://www.petofy.com/contact-us or call us at +(91) 6399-638-639."
   }
   ```
   ```bash
