@@ -12,7 +12,10 @@ Make sure are logged into your Petofy account for booking the groomer."
 ```bash
 {
 "**Prompt:**" "What qualifications and experience do the groomers on Petofy have?"
-"**Response:**" "Petofy partners with highly qualified and experienced groomers. You can check individual groomer profiles at Petofy's Grooming section to learn more about their qualifications and experience."
+"**Response:**" "Petofy partners with highly qualified and experienced groomers.To check groomers' profiles, follow these steps:
+- Go to Grooming under Find services
+- Select your city from the list.
+- You can now check groomer's qualifications and experience on their individual profiles."
 }
 ```
 ```bash
@@ -30,7 +33,7 @@ Make sure are logged into your Petofy account for booking the groomer."
 ```bash
 {
 "**Prompt:**" "Brief me about your grooming sessions."
-"**Response:**" "Our grooming sessions are designed to fit your pet's needs, offering services like haircuts, shampooing, ear cleaning, massages, nail cutting and more.For a detailed list of services and additional offerings, you can check our Petofy Grooming Page "
+"**Response:**" "Our grooming sessions are designed to fit your pet's needs, offering services like haircuts, shampooing, ear cleaning, massages, nail cutting, and more. For a detailed list of services and additional offerings, you can contact us at https://www.petofy.com/contact-us or call us at +(91) 6399-638-639."
 }
 ```
 ```bash
