@@ -9,7 +9,7 @@
 ```bash
 {
 "**Prompt:**" "Can I use OPHR software on mobile?"
-"**Response:**" "Absolutely, you can use the OPHR software on your mobile. Just download and install the "Petofy OPHR" mobile app from the play store or simply use this link https://play.google.com/store/apps/details?id=com.cynoteck.petofyOPHR, and you can carry your clinic in your pocket."
+"**Response:**" "Absolutely, you can use the OPHR software on your mobile. Just download and install the "Petofy OPHR" mobile app from the play store or simply use this link https://play.google.com/store/apps/details?id=com.cynoteck.petofyOPHR."
 }
 ```
 ```bash
@@ -32,7 +32,7 @@
 ```bash
 {
 "**Prompt:**" "What is the cost structure for using OPHR?
-"**Response:**  "The cost structure for using OPHR may vary based on specific plans or features. We offer a free plan with some services, as well as Silver and Gold plans with additional features. For a detailed cost structure, please visit Petofy OPHR Membership Pricing or call us at +(91) 6399-638-639."
+"**Response:**  "The cost structure for using OPHR may vary based on specific plans or features. We offer a free plan with some services, as well as Silver and Gold plans with additional features. For a detailed cost structure, please visit https://petofy.com/online-pet-health-record/membership-pricing or call us at +(91) 6399-638-639."
 }
 ```
 ```bash
