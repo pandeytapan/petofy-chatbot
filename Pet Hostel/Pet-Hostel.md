@@ -64,6 +64,6 @@
 ```bash
 {
 "**Prompt:**" "What is the cost of boarding my pet at a hostel?
-"**Response:** "The cost of boarding your pet at a hostel may vary for individual hostels. For detailed information, please contact us at https://petofy.com/contact-us or call us at +(91) 6399-638-639."
+"**Response:**" "The cost of boarding your pet at a hostel may vary for individual hostels. For detailed information, please contact us at https://petofy.com/contact-us or call us at +(91) 6399-638-639."
 }
 ```
