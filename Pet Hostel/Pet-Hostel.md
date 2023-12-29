@@ -2,21 +2,24 @@
 ```bash
 {
 "**Prompt:**" "How can I book a spot for my pet at a hostel through Petofy?"
-"**Response:**" "To book a spot for your pet at a hostel through Petofy, visit www.petofy.com or use our mobile app. Log in, navigate to the pet hostel section, and select the hostel that suits your pet's needs."
-
-}
+"**Response:**" "To book a spot for your pet at a hostel through Petofy, visit https://petofy.com/Home/ or use our mobile app. Now follow these steps:-
+ - Go to Hostels|Boarding under Find services.
+ - Select your city from the list.
+ - Select the hostel that suits your pet's needs.
+ Make sure are logged into your Petofy account."
+ }
 ```
 ```bash
 {
 "**Prompt:**" "What facilities are provided at the pet hostels listed on Petofy?"
-"**Response:**"  "All the hostels listed on Petofy are highly rated and offer various services, including feeding, dedicated care by trained teams, vaccination if required, and many more."
+"**Response:**"  "All the hostels listed on Petofy are highly rated and offer various services, including feeding, dedicated care by trained teams, vaccination if required, and many more. For detailed information, please contact us at https://petofy.com/contact-us or call us at +(91) 6399-638-639."
 
 }
 ```
 ```bash
 {
 "**Prompt:**" "Can you describe the type of accommodations available for pets?"
-"**Response:**" "Accommodations for pets in our hostels are designed for comfort and well-being. Features include dedicated dog hostels and knowledgeable dog attendants who understand changing temperaments, eating habits, and separation nervousness."
+"**Response:**" "Accommodations for pets in our hostels are designed for comfort and well-being. Features include dedicated dog hostels and knowledgeable dog attendants who understand changing temperaments, eating habits, and separation nervousness. For detailed information, please contact us at https://petofy.com/contact-us or call us at +(91) 6399-638-639."
 }
 ```
 ```bash
@@ -28,25 +31,28 @@
 ```bash
 {
 "**Prompt:**" "What services are included in the daily care routine for pets?"
-"**Response:**" "Daily care routines for pets in our hostels may include feeding services, regular walks and exercise, monitoring of changing temperaments and behaviors, and individualized attention by trained teams."
+"**Response:**" "Daily care routines for pets in our hostels may include feeding services, regular walks and exercise, monitoring of changing temperaments and behaviors, and individualized attention by trained teams. For detailed information, please contact us at https://petofy.com/contact-us or call us at +(91) 6399-638-639."
 }
 ```
 ```bash
 {
 "**Prompt:**" "Is grooming also done in the pet hostel?"
-"**Response:**" "Grooming services may be available in some pet hostels listed on Petofy. Please visit the Petofy grooming section and check the facilities provided by individual hostels."
+"**Response:**" "Grooming services may be available in some pet hostels listed on Petofy. Please visit https://petofy.com/Home/ or use our mobile app. Now follow these steps:-
+ - Go to Hostels|Boarding under Find services.
+ - Select your city from the list.
+ Now you can check all hostels services near your location."
 }
 ```
 ```bash
 {
 "**Prompt:**" How does the hostel ensure the health and safety of the pets in their care?
-"**Response:**" ou can definitely feel confident about the health and safety of your pet. Hostels listed on Petofy ensure monitoring of your pet, trained teams addressing changing temperaments and behaviors, and adherence to safety protocols and standards.
+"**Response:**" "You can definitely feel confident about the health and safety of your pet. Hostels listed on Petofy ensure monitoring of your pet, trained teams addressing changing temperaments and behaviors, and adherence to safety protocols and standards.For detailed information, please contact us at https://petofy.com/contact-us or call us at +(91) 6399-638-639."
 }
 ```
 ```bash
 {
 "**Prompt:**" "What veterinary support is available in case of emergencies?"
-"**Response:**" "Petofy's hostels have access to veterinary support in case of emergencies. Trained teams are equipped to handle and address any urgent medical needs.For more information, you can visit our customer support."
+"**Response:**" "Petofy's hostels have access to veterinary support in case of emergencies. Trained teams are equipped to handle and address any urgent medical needs.For more information, please contact us at https://petofy.com/contact-us or call us at +(91) 6399-638-639."
 }
 ```
 ```bash
@@ -58,7 +64,6 @@
 ```bash
 {
 "**Prompt:**" "What is the cost of boarding my pet at a hostel?
-"**Response:** "The cost of boarding your pet at a hostel may vary for individual hostels. Please connect with our customer support for more details.
-"
+"**Response:** "The cost of boarding your pet at a hostel may vary for individual hostels. For detailed information, please contact us at https://petofy.com/contact-us or call us at +(91) 6399-638-639."
 }
 ```
