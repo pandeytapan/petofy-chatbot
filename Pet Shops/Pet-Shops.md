@@ -38,7 +38,7 @@
 ```bash
 {
 **Prompt:** "Could you please recommend toys for my dog?"
-**Response:** "If you're a new pet owner and don't have much idea about toys, you can visit pet shops through Petofy. Consult with shop owners for expert advice on suitable toys for your dog."
+**Response:** "If you're a new pet owner and don't have much idea about toys, you can visit pet shops through Petofy. Consult with shop owners for expert advice on suitable toys for your dog. You can visit https://www.petofy.com/contact-us or call us at +(91) 6399-638-639 for more information."
 }
 ```
 ```bash
