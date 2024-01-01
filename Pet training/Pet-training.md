@@ -12,7 +12,7 @@
 ```bash
 {
 "**Prompt:**" "What is the training duration for my pet?"
-"**Response:**" "Training durations may vary based on the specific program and your pet's needs. Please reach out to our customer support at https://www.petofy.com/contact-us or call us at +(91) 6399-638-639 for more detailed assistance"
+"**Response:**" "Training durations depends upon the selected training program and any other training request from pet parent.. Please reach out to our customer support at https://www.petofy.com/contact-us or call us at +(91) 6399-638-639 for more detailed assistance"
 }
 ```
 ```bash
@@ -33,7 +33,7 @@
 ```
 ```bash
 {
-"**Prompt:**" "Can I get a trainer at my home for my pet?"
+"**Prompt:**" "Can the trainer visit and provide training at my home?"
 "**Response:**" "I am a virtual assistant and cannot answer this request now. You can visit https://www.petofy.com/contact-us or call us at +(91) 6399-638-639 for more information."
 ```
 ```bash
