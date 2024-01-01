@@ -25,7 +25,7 @@
 ```bash
 {
 "**Prompt:**" "Can I visit my pet in the hostel?"
-"**Response:**" "Yes, you can meet your pet in the hostel. Petofy's listed hostels provide opportunities for pet parents to visit and spend time with their pets."
+"**Response:**" "Yes, you can meet your pet in the hostel. Hostels listed on Petofy provide opportunities for pet parents to visit and spend time with their pets."
 }
 ```
 ```bash
@@ -51,14 +51,14 @@
 ```
 ```bash
 {
-"**Prompt:**" "What veterinary support is available in case of emergencies?"
+"**Prompt:**" "What veterinary support is available in case of emergencies at hostels?"
 "**Response:**" "All the hostels listed on Petofy have access to veterinary support in case of emergencies. Trained teams are equipped to handle and address any urgent medical needs.For more information, please contact us at https://petofy.com/contact-us or call us at +(91) 6399-638-639."
 }
 ```
 ```bash
 {
 "**Prompt:**" "Is there a system for receiving updates or photos of my pet during their stay?"
-"**Response:**" "Yes, hostels listed on Petofy may offer a system for updates and photos of your pet during their stay. You can connect with individual hostel for specific details."
+"**Response:**" "Yes, hostels listed on Petofy may provides updates and photos of your pet during their stay. You can connect with individual hostel for specific details."
 }
 ```
 ```bash
