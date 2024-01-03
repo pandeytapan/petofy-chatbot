@@ -1,4 +1,3 @@
-# Prompts and Responses Related to Consultant
 [
   {
     "Prompt": "How do I choose the best vet for my pet dog?",
@@ -23,7 +22,7 @@
   {
     "Prompt": "My pet is unconscious, and it looks like it ate something strange. What should I do?",
     "Response": "Contact your vet immediately. You can also use our vet on call service at https://petofy.com/VetOnCall. Provide details on the substance, and follow their guidance for prompt and appropriate care."
-  },
+  }, 
   {
     "Prompt": "What is the refund policy for the vet on call service?",
     "Response": "We aim to ensure a fair and transparent process for any refund requests. If you have specific concerns or inquiries, please reach out to our customer support at https://www.petofy.com/contact-us or call us at +(91) 6399-638-639 for more detailed assistance."
