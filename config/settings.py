@@ -19,3 +19,7 @@ TOP_P = float(os.getenv("TOP_P", 0.95))
 FREQUENCY_PENALTY = float(os.getenv("FREQUENCY_PENALTY", 0))
 PRESENCE_PENALTY = float(os.getenv("PRESENCE_PENALTY", 0))
 STOP = os.getenv("STOP")
+
+# Directory settings
+BASE_DIRECTORY = os.getenv("BASE_DIRECTORY")
+JSON_BASE_DIRECTORY = os.path.join(BASE_DIRECTORY, "dataset")
