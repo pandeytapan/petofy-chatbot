@@ -1,7 +1,6 @@
 import json
 import os
 from typing import Dict
-from config.settings import JSON_BASE_DIRECTORY  # Import the base directory from settings
 
 
 def load_json_file(file_path: str) -> Dict[str, str]:
@@ -31,8 +30,3 @@ def load_json_files_from_directory(base_directory: str) -> Dict[str, str]:
                     combined_dict.update(load_json_file(file_path))
 
     return combined_dict
-
-
-if __name__ == "__main__":
-    result_dict = load_json_files_from_directory(JSON_BASE_DIRECTORY)
-    print(result_dict)
