@@ -35,4 +35,4 @@ def load_json_files_from_directory(base_directory: str) -> Dict[str, str]:
 
 if __name__ == "__main__":
     result_dict = load_json_files_from_directory(JSON_BASE_DIRECTORY)
-    print(result_dict)
+    
